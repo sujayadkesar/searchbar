@@ -2,25 +2,25 @@
 Welcome to the Google Programmable Searchbar for Cybersecurity! 🚀This project allows you to easily search for cybersecurity related content using the power of Google's search engine.
 
 ## Features
-🔎 Search specifically for cybersecurity related content
-📱 Easy to use interface
-💻 Quick search results
+🔎 Search specifically for cybersecurity related content <br>
+📱 Easy to use interface <br>
+💻 Quick search results <br>
 
 ## Getting Started
-🔨 Clone the repository to your local machine OR just [click-here](https://sujayadkesar.github.io/searchbar/#gsc.tab=0)
-🏃‍♂️ Run the program
-🔍 Type in your search query and hit enter
-📜 View the search results
+🔨 Clone the repository to your local machine OR just [click-here](https://sujayadkesar.github.io/searchbar/#gsc.tab=0) <br>
+🏃‍♂️ Run the program<br>
+🔍 Type in your search query and hit enter<br>
+📜 View the search results<br>
 
 ## Built With
-Google Search API 🔍
-Html 🩻
-Css 🎨
-Javascript 📜
+Google Search API 🔍<br>
+Html 🩻<br>
+Css 🎨<br>
+Javascript 📜<br>
 
 
 Author
-SUJAY ADKESAR - Initial work 🙋‍♂️
+SUJAY ADKESAR - Initial work 🙋‍♂️<br>
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details 📜
